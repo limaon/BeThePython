@@ -25,6 +25,7 @@ print("Esse animail e um %s e ele anda" % animal)
 print("-----------")
 print("-----------")
 print("-----------")
+print("-----------")
 
 txt = "Para somente {price:.2f} reais"
 print(txt.format(price = 3))
