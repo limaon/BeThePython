@@ -13,3 +13,4 @@ print(a[2])
 
 print("Tamanho: " + str(len(curso)))
 
+# Finalizado
